@@ -14,14 +14,16 @@ experience with Rust and Go programming. My goal is to open a DeFi
 lending.
 
 
-<!-- <div align="center"> -->
-<!--     <a href="https://www.linkedin.com/in/[YourLinkedIn]/"> -->
-<!--         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> -->
-<!--     </a> -->
-<!-- </div> -->
+<div align="center">
+    <a href="https://www.linkedin.com/in/[YourLinkedIn]/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/EgorGorshen/EgorGorshen/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
+
+
 
